@@ -4,7 +4,7 @@ Renaming obfuscation library with dnlib.
 
 ## Information
 
-This library can be used to rename strings of .NET assemblies.
+This library can be used to rename obfuscation of .NET assemblies.
 
 ## Usage
 Just download it and use in your .net applications.
